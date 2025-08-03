@@ -75,7 +75,7 @@ The application prevents:
 ## How to Run
 
 1. Open `InventoryManagementSystem.sln` in Visual Studio.
-2. Click the Greem Triangle that says "Inventory Manager" beside it.
+2. Click the Greem Triangle that says **Inventory Manager** beside it.
 
 ---
 
